@@ -1,0 +1,1 @@
+This folder stores every algo and data structure i have recently learned
